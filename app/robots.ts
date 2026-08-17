@@ -7,5 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
     },
     sitemap: "https://ilivo.ir/sitemap.xml",
+    host: "https://ilivo.ir",
   };
 }
